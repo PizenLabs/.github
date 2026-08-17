@@ -1,9 +1,8 @@
-# PizenLabs
+<img src="https://raw.githubusercontent.com/PizenLabs/onpic/refs/heads/main/pizenlabs/pizenlabs-banner.png" alt="PizenLabs" width="100%">
 
-> **OPEN-SOURCE LABORATORY**  
-> *Tools for clearer human-computer collaboration.*
+**Open-source laboratory for clearer human-computer collaboration.**
 
-PizenLabs is a small, independent laboratory building open-source technology with a point of view. We explore ideas, then we build the systems that embody them.
+[Website](https://pizenlabs.github.io/) · [GitHub](https://github.com/PizenLabs)
 
 ---
 
@@ -11,7 +10,7 @@ PizenLabs is a small, independent laboratory building open-source technology wit
 
 > **Technology should increase human capability *without removing human agency*.**
 
-We build systems that make complexity legible — not systems that decide for you. The human remains the source of truth; the machine is an assistant, never an authority.
+We build open-source systems that make complexity legible — not systems that decide for you. The human remains the source of truth; the machine is an assistant, never an authority.
 
 Our work is open source because understanding is part of the product. You should be able to read what runs.
 
@@ -25,18 +24,11 @@ Our work is open source because understanding is part of the product. You should
 
 ---
 
-### `03 / EXPLORATIONS & PROJECTS`
-
-| Repository | Description | Status |
-| :--- | :--- | :--- |
-| **`core-systems`** | Low-level primitives for human-in-the-loop workflow orchestration. | Active |
-| **`legible-ui`** | Minimal, typography-first interfaces designed for high information density. | Experimental |
-| **`context-engine`** | Structured data pipelines for deterministic AI interaction. | Research |
-
----
-
-### `04 / GET INVOLVED`
+### `03 / GET INVOLVED`
 
 * **Read the Source:** Explore our public repositories to understand how we structure architectures and workflows.
 * **Contribute:** We welcome issues, architectural discussions, and clean pull requests.
-* **Connect:** [github.com/PizenLabs](https://github.com/PizenLabs)
+
+---
+
+<sub>We build in the open. Understanding is part of the product.</sub>
