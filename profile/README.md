@@ -2,7 +2,7 @@
 
 **Open-source laboratory for clearer human-computer collaboration.**
 
-[Website](https://pizenlabs.github.io/) · [GitHub](https://github.com/PizenLabs)
+[Website](https://pizenlabs.dev) · [GitHub](https://github.com/PizenLabs)
 
 ---
 
